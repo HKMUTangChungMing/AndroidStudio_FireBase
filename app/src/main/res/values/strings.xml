@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Firebase</string>
+    <string-array name="number">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+    </string-array>
+</resources>
